@@ -1,0 +1,51 @@
+DobroDesk SDK Proprietary License
+
+Copyright (c) 2026 the DobroDesk SDK copyright holders. All rights reserved.
+
+1. Scope
+
+This license applies to the first-party DobroDesk SDK binaries, browser SDK,
+framework wrappers, integration code, examples and accompanying documentation
+provided with this license (the "SDK"). The copyright holders are the licensor.
+
+2. Limited integration rights
+
+You may download, install, copy, compile and use the SDK solely to develop,
+test and operate your applications that integrate with the DobroDesk service.
+You may modify the supplied integration glue and examples only as necessary
+for that integration. You may distribute the SDK only as an embedded part of
+those applications, including through application stores, with its copyright
+and license notices preserved. Your end users receive no right to extract,
+reuse or redistribute the SDK separately. Use of the DobroDesk service remains
+subject to the applicable account or service agreement.
+
+3. Restrictions
+
+Except for the limited integration rights above or separate written permission
+from the licensor, you may not publish, redistribute, sublicense, sell, rent or
+license the SDK as a standalone product, repackaged SDK or competing service.
+You may not disclose first-party SDK source code, remove proprietary notices,
+circumvent access controls or use the SDK independently of DobroDesk. You may
+not reverse engineer, decompile or disassemble native SDK binaries, except to
+the extent that applicable law expressly permits this despite the restriction.
+
+4. Ownership
+
+The SDK remains proprietary. No ownership is transferred and no open-source
+license or general-purpose redistribution right is granted. All rights not
+expressly granted in this license are reserved by the copyright holders.
+
+5. Third-party components
+
+Third-party libraries, fonts and other materials retain their own copyright
+notices and licenses. Those separate licenses apply to their respective
+components and are not replaced or restricted by this license. Preserve the
+third-party notices supplied in the SDK packages and native resources.
+
+6. Warranty
+
+Except as expressly stated in an applicable written agreement or required by
+law, the SDK is provided "AS IS", without express or implied warranties,
+including warranties of merchantability, fitness for a particular purpose or
+non-infringement. Nothing in this license excludes rights or liabilities that
+applicable law does not permit to be excluded.

@@ -1,7 +1,7 @@
 {
   "name": "dobrodesk-support",
   "displayName": "DobroDesk Support",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Securely inspect permitted DobroDesk support conversations and prepare reply drafts for teammate review.",
   "author": {
     "name": "CoMStudio OÜ",

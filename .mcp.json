@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dobrodesk": {
+      "type": "http",
+      "url": "https://dobrodesk.com/mcp"
+    }
+  }
+}

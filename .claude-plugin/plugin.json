@@ -1,0 +1,17 @@
+{
+  "name": "dobrodesk-support",
+  "displayName": "DobroDesk Support",
+  "version": "1.0.0",
+  "description": "Securely inspect permitted DobroDesk support conversations and prepare reply drafts for teammate review.",
+  "author": {
+    "name": "CoMStudio OÜ",
+    "url": "https://comstud.io"
+  },
+  "homepage": "https://dobrodesk.com/help/connect-mcp-client-and-revoke-access",
+  "icon": "./assets/logo-mark.svg",
+  "documentationUrl": "https://dobrodesk.com/help/connect-mcp-client-and-revoke-access",
+  "supportUrl": "https://dobrodesk.com/help",
+  "privacyPolicyUrl": "https://comstud.io/legal/dobrodesk#privacy-and-data-roles",
+  "termsOfServiceUrl": "https://comstud.io/legal/dobrodesk#agreement",
+  "keywords": ["support", "conversations", "customer-service", "dobrodesk"]
+}
